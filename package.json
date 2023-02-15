@@ -1,0 +1,12 @@
+{
+  "name": "awesome-report-generator",
+  "version": "1.0.0",
+  "description": "Generate chart oriented reports from table",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "debug": "node app.js"
+  },
+  "author": "stirli",
+  "license": "ISC"
+}
