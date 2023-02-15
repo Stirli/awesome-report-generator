@@ -1,0 +1,1 @@
+Generate chart oriented reports from table

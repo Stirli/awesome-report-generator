@@ -8,5 +8,9 @@
     "debug": "node app.js"
   },
   "author": "stirli",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stirli/awesome-report-generator"
+  }
 }
